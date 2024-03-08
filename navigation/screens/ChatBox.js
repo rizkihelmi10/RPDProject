@@ -23,7 +23,7 @@ export default function ChatBox() {
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0, minimum-scale=1.0, user-scalable=yes">
 </head>
 <body>
-  <script id="cid0010000156280366624" data-cfasync="false" async="" src="https://st.chatango.com/js/gz/emb.js" style="width:100%;height:100%;">{"handle":"radioppiduniachat","arch":"js","styles":{"a":"#000000","b":100,"c":"000000","d":"FFFFFF","k":"000000","l":"000000","m":"000000","n":"FFFFFF","q":"404041","r":100,"p":10,"cnrs":0.25,"usricon":0.75}}</script>
+  <script id="cid0010000156280366624" data-cfasync="false" async="" src="https://st.chatango.com/js/gz/emb.js" style="width:100%;height:100%;">{"handle":"radioppiduniachat","arch":"js","styles":{"a":"#000000","b":100,"c":"FFFFFF","d":"FFFFFF","k":"000000","l":"000000","m":"000000","n":"FFFFFF","q":"404041","r":100,"p":10,"cnrs":0.25,"usricon":0.75}}</script>
 </body>
 </html>
   

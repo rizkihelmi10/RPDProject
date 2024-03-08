@@ -52,12 +52,26 @@ export default function HomeScreen() {
                                 width: 700px; 
                                 height: 1150px; 
                             }
+                            .server {
+                                color: white;
+                                font-size: 20px; 
+                                margin-top: 50px; 
+                                margin-bottom: 50px;
+                            }
                     
                          
                         </style>
                     </head>
                     <body>
+                   
+            
+                    
                         <div class="container">
+                        <div class="server">
+                        <script type="text/javascript" src="https://cdn.voscast.com/stats/display.js?key=31b8dac67aae02545f7e5a44e2f8ec7c&stats=servertitle"></script>
+
+                        </div>
+
                             <div class="player-container">
                                 
                                 <iframe src="https://cdn.voscast.com/player/player.php?host=s1.voscast.com&port=8080&mount=/stream&autoplay=true&icecast=false" width="150" height="30" frameborder="0" scrolling="no" allow="autoplay"></iframe>
@@ -69,6 +83,7 @@ export default function HomeScreen() {
                     `,
                 }}
             />
+         
         </View>
     );
 }
