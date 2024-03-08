@@ -68,7 +68,6 @@ export default function HomeScreen() {
                     </html>
                     `,
                 }}
-                style={{ flex: 1 }}
             />
         </View>
     );
